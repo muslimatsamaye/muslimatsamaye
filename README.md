@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Muslimat Samaye
-I'm a **Data Visualisation Designer** passionate about transforming complex data into clear, compelling visuals. My journey in tech began with data entry and analysis, but I soon discovered my love for **storytelling through data**. Today, I focus on creating impactful dashboards, infographics, and data-driven designs that make insights easy to understand and act upon.  
+I'm a **Business Intelligence Analyst** passionate about transforming complex datasets into stories that inform, inspire, and drive business decisions.
+My expertise lies in the following tools: Excel, SQL, Tableau, and Power BI. Using these, I create visual solutions that make sense of sales trends, customer behaviour, and financial performance.
 
 💡 **What I Do**  
 - Design **interactive dashboards** and **visualizations** that bring data to life.  
@@ -8,10 +9,10 @@ I'm a **Data Visualisation Designer** passionate about transforming complex data
 - Help businesses and individuals communicate their data effectively.  
 
 🔧 **Tools & Skills**  
-- **Languages**: SQL, Python, R  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Visualisation Tools**: Tableau, Power BI, Excel.
-- **Other Tools**: Jupyter Notebook, Google Sheets  
+- **Data Visualization & BI**: Tableau, Power BI, Looker Studio, Infographics, Data Storytelling  
+- **Programming & Analysis**: Python, R, SQL (MySQL, PostgreSQL), Data Cleaning, Data Modeling  
+- **Tools & Office**: Microsoft Excel (XLOOKUP, PivotTables), Google Sheets, PowerPoint, Git, Canva
+- ** Soft Skills**: Communication, Critical Thinking, Problem Solving, Attention to Detail, Teamwork  
 
 🌱 **Learning**  
 Currently expanding my expertise in **advanced data visualisation techniques**, **SQL optimisation**, and **Python**. Always eager to explore new tools that make working with data more efficient and creative!  
