@@ -4,7 +4,7 @@ My expertise lies in the following tools: Excel, SQL, Tableau, and Power BI. Usi
 
 I help teams and organisations unlock opportunity through intuitive, actionable dashboards. From small businesses tracking sales to large organisations analysing customer feedback, I bring the technical skill, design thinking, and business focus needed to turn data into clear, decision-ready insights that work for you.
 
-**Tools & Skills**  
+**Tools & Skills**
 - **Data Visualization & BI**: Tableau, Power BI, Looker Studio, Infographics, Data Storytelling  
 - **Programming & Analysis**: Python, R, SQL (MySQL, PostgreSQL), Data Cleaning, Data Modeling  
 - **Tools & Office**: Microsoft Excel (XLOOKUP, PivotTables), Google Sheets, PowerPoint, Git, Canva
@@ -13,7 +13,7 @@ I help teams and organisations unlock opportunity through intuitive, actionable 
 I’m currently expanding my expertise in advanced data visualisation techniques, SQL optimisation, and Python, and I’m always eager to explore new tools that make working with data more efficient.
 I’m open to business analytics roles and projects, as well as data-driven research and collaborations in Applied Data and Analytics. 
 
-**Get in Touch**  
+**Get in Touch**
 - [LinkedIn](https://www.linkedin.com/in/muslimat-samaye/)  
 - [Email](mailto:samayemuslimat35@gmail.com)  
 
