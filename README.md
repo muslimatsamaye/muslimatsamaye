@@ -2,22 +2,18 @@
 I'm a **Business Intelligence Analyst** passionate about transforming complex datasets into stories that inform, inspire, and drive business decisions.
 My expertise lies in the following tools: Excel, SQL, Tableau, and Power BI. Using these, I create visual solutions that make sense of sales trends, customer behaviour, and financial performance.
 
-💡 **What I Do**  
-- Design **interactive dashboards** and **visualizations** that bring data to life.  
-- Specialise in **data cleaning, transformation, and storytelling** for actionable insights.  
-- Explore **statistical methods** to guide data-driven decision-making.  
-- Help businesses and individuals communicate their data effectively.  
+I help teams and organisations unlock opportunity through intuitive, actionable dashboards. From small businesses tracking sales to large organisations analysing customer feedback, I bring the technical skill, design thinking, and business focus needed to turn data into clear, decision-ready insights that work for you.
 
-🔧 **Tools & Skills**  
+**Tools & Skills**  
 - **Data Visualization & BI**: Tableau, Power BI, Looker Studio, Infographics, Data Storytelling  
 - **Programming & Analysis**: Python, R, SQL (MySQL, PostgreSQL), Data Cleaning, Data Modeling  
 - **Tools & Office**: Microsoft Excel (XLOOKUP, PivotTables), Google Sheets, PowerPoint, Git, Canva
 - ** Soft Skills**: Communication, Critical Thinking, Problem Solving, Attention to Detail, Teamwork  
 
-🌱 **Learning**  
-Currently expanding my expertise in **advanced data visualisation techniques**, **SQL optimisation**, and **Python**. Always eager to explore new tools that make working with data more efficient and creative!  
+I’m currently expanding my expertise in advanced data visualisation techniques, SQL optimisation, and Python, and I’m always eager to explore new tools that make working with data more efficient.
+I’m open to business analytics roles and projects, as well as data-driven research and collaborations in Applied Data and Analytics. 
 
-📫 **Get in Touch**  
+**Get in Touch**  
 - [LinkedIn](https://www.linkedin.com/in/muslimat-samaye/)  
 - [Email](mailto:samayemuslimat35@gmail.com)  
 
