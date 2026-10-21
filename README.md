@@ -8,7 +8,7 @@ I help teams and organisations unlock opportunity through intuitive, actionable 
 - **Data Visualization & BI**: Tableau, Power BI, Looker Studio, Infographics, Data Storytelling  
 - **Programming & Analysis**: Python, R, SQL (MySQL, PostgreSQL), Data Cleaning, Data Modeling  
 - **Tools & Office**: Microsoft Excel (XLOOKUP, PivotTables), Google Sheets, PowerPoint, Git, Canva
-- ** Soft Skills**: Communication, Critical Thinking, Problem Solving, Attention to Detail, Teamwork  
+- **Soft Skills**: Communication, Critical Thinking, Problem Solving, Attention to Detail, Teamwork  
 
 I’m currently expanding my expertise in advanced data visualisation techniques, SQL optimisation, and Python, and I’m always eager to explore new tools that make working with data more efficient.
 I’m open to business analytics roles and projects, as well as data-driven research and collaborations in Applied Data and Analytics. 
